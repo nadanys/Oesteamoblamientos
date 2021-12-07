@@ -1,0 +1,16 @@
+
+body{ background-color: #FFFDE7; text-align: center;color: black;}
+
+h1 {background-color: #873600 ; color:#ECF0F1; text-align: center; font-size: 4em}
+
+header nav {text-align: center;}
+
+nav a:hover {border-bottom: 1px solid;}
+
+section {display: block; width: 50%; height: 50%; overflow:auto; padding:10px; margin-top: 2rem;
+  margin-left: 18rem; color: #B9770E; box-sizing: border-box; color: black}
+
+
+  footer { color: black; clear: both; width:100%; margin-top: 60px; background-color: #873600; box-sizing: content-box;}
+  .estilosubtitulo{font-family:tahoma; font-size: 2vh ; background-color: #; color: black;}
+  .iconowhatsapp { position: fixed; top: 75%; right: 2%;}
