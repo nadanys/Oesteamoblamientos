@@ -1,0 +1,16 @@
+@media query (max-width:768px){
+  #intro{
+    width:90% !important;
+  }
+}
+body{ background-color: #FFFDE7; text-align: center;}
+
+h1 {background-color: #873600 ; color:#ECF0F1; }
+
+header nav {text-align: center;}
+
+nav a:hover {border-bottom: 1px solid;}
+
+footer { color: black; clear: both; width:100%; margin-top: 60px; background-color: #873600; box-sizing: content-box;}
+
+.iconowhatsapp { position: fixed; top: 75%; right: 2%;}
